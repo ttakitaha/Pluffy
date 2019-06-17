@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pluffy</string>
+    <string name="playString">YENİ OYUN</string>
+    <string name="classicString">KLASİK</string>
+    <string name="actionString">AKSİYON</string>
+    <string name="menuString">MENU</string>
+    <string name="endlessString">SONSUZ</string>
+    <string name="optionsString">AYARLAR</string>
+    <string name="restartString">YENİLE</string>
+    <string name="creditsString">HAKKINDA</string>
+    <string name="muteString">SESİ KAPAT</string>
+    <string name="unmuteString">SESİ AC</string>
+    <string name="howToPlayString">NASIL OYNANIR</string>
+    <string name="yourScoreString">Skorunuz</string>
+    <string name="highScorePanelString">Yüksek Skor</string>
+    <string name="resetHighString">Skorları Sıfırla</string>
+    <string name="backString">GERİ</string>
+    <string name="quitString">CIKIS</string>
+    <string name="movesLeftString">kalan hamle</string>
+    <string name="totalScoreLeft">kalan puan</string>
+    <string name="highScoreString">yüksek skor</string>
+    <string name="imageContentDescString">Image Content Description</string>
+    <string name="successString">Başarıyla Sıfırlandı</string>
+    <string name="howToString1" translatable="false">Klasik modda sayıları patlatarak oyun alanının dışına çıkarın.</string>
+    <string name="howToString2">Aksiton modunda yeşiller 2 ile çarpılır. Kırmızılar kullanılamaz.</string>
+    <string name="howToString3">Sonsuz modda tüm sayıları yok edin.</string>
+    <string name="next">İLERİ</string>
+    <string name="finish">ANLADIM</string>
+    <string name="skip">ATLA</string>
+    <string name="howToStringClassic">Klasik Mod</string>
+    <string name="howToStringAction">Aksiyon Modu</string>
+    <string name="howToStringEndless">Sonsuz Mod</string>
+</resources>

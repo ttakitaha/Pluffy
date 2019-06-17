@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Pluffy</string>
+    <string name="playString">PLAY</string>
+    <string name="classicString">CLASSIC</string>
+    <string name="actionString">ACTION</string>
+    <string name="menuString">MENU</string>
+    <string name="endlessString">ENDLESS</string>
+    <string name="optionsString">OPTIONS</string>
+    <string name="restartString">RESTART</string>
+    <string name="creditsString">CREDITS</string>
+    <string name="muteString">SOUND OFF</string>
+    <string name="unmuteString">SOUND ON</string>
+    <string name="howToPlayString">HOW TO PLAY</string>
+    <string name="yourScoreString">Your Score</string>
+    <string name="highScorePanelString">High Score</string>
+    <string name="resetHighString">RESET HIGH SCORE</string>
+    <string name="backString">BACK</string>
+    <string name="quitString">QUIT</string>
+    <string name="movesLeftString">moves left</string>
+    <string name="successString">Reset Succeed</string>
+    <string name="totalScoreLeft">points left</string>
+    <string name="highScoreString">high score</string>
+    <string name="imageContentDescString">Image Content Description</string>
+    <string name="howToString1"> Just take the numbers out of the playground on Classic Mode!</string>
+    <string name="howToString2">Green fields are multiplied by 2 and red fields are disabled on Action Mode!</string>
+    <string name="howToString3">Clear off all numbers on Endless Mode!</string>
+    <string name="howToStringClassic">Classic Mode</string>
+    <string name="howToStringAction">Action Mode</string>
+    <string name="howToStringEndless">Endless Mode</string>
+    <string name="pluffyCopyright" translatable="false">Pluffy Logo. All rights reserved.</string>
+    <string name="next">NEXT</string>
+    <string name="finish">FINISH</string>
+    <string name="skip">SKIP</string>
+    <string name="adMobString" translatable="false">ca-app-pub-2916081203297616~3860462349</string>
+    <string name="adMobXmlString" translatable="false">ca-app-pub-2916081203297616/6734037695</string>
+</resources>
